@@ -1,4 +1,5 @@
-# Fileuploader
+# jQuery.filer
+<b>Important!</b> jQuery.filer was transferred to <a href="https://github.com/innostudio/fileuploader">Fileuploader</a><br><br>
 Beautiful and powerful HTML file uploading tool. A jQuery and PHP plugin that transforms the standard input into a revolutionary and fancy field on your page. The jQuery.filer was transferred now to this project.
 
 <a href="https://innostudio.de/fileuploader/"><b>Download</b></a> | <a href="https://innostudio.de/fileuploader/documentation/"><b>Documentation</b></a> | <a href="https://innostudio.de/fileuploader/documentation/#license"><b>Licenses</b></a>
